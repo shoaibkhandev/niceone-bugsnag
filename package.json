@@ -1,6 +1,6 @@
 {
-  "name": "niceone-bugsnag",
-  "version": "2.0.1",
+  "name": "nice-bugsnag",
+  "version": "2.0.2",
   "license": "MIT",
   "type": "module",
   "repository": {
