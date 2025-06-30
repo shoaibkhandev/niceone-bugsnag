@@ -1,14 +1,11 @@
 {
-  "name": "nuxt-bugsnag",
-  "version": "8.4.0",
+  "name": "niceone-bugsnag",
+  "version": "2.0.0",
   "license": "MIT",
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JulianMar/nuxt-bugsnag.git"
-  },
-  "bugs": {
-    "url": "https://github.com/JulianMar/nuxt-bugsnag/issues"
+    "url": "git+https://github.com/shoaibkhandev/niceone-bugsnag.git"
   },
   "exports": {
     ".": {
