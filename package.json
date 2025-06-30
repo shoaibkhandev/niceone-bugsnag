@@ -31,6 +31,9 @@
     "coverage": "vitest run --coverage",
     "test:types": "vue-tsc --noEmit && cd playground && vue-tsc --noEmit"
   },
+  "peerDependencies": {
+    "@bugsnag/plugin-vue": "^8.0.0"
+  },
   "dependencies": {
     "@bugsnag/browser-performance": "^2.11.0",
     "@bugsnag/js": "^8.0.0",
